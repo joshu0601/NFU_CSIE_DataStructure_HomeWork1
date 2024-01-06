@@ -1,4 +1,4 @@
-# NFU_CSIE_DataStructure_HomeWork2NFU_CSIE_DataStructure_HomeWork1
+# NFU_CSIE_DataStructure_HomeWork1
 資料結構實作 遞迴阿克曼函數、非遞迴阿克曼函數、子集合
 
 # 遞迴阿克曼函數
